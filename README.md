@@ -1,4 +1,4 @@
-# [Link Penjelasan mengenai Aplikasi Buku Tamu Digital](https://youtu.be/CRmalhuUr5o)
+# 🔗 [Penjelasan Aplikasi Buku Tamu Digital](https://youtu.be/CRmalhuUr5o)
 
 # 📚 Buku Tamu Digital 📚 
 
@@ -22,7 +22,7 @@ Aplikasi ini merupakan implementasi sistem Buku Tamu Digital berbasis web menggu
 
 ✅ **Tanpa Login**: Tidak memerlukan autentikasi login, langsung bisa diakses.
 
-✅ **Konfirmasi Hapus**: Pop-up konfirmasi saat pengguna ingin menghapus data tamu.\
+✅ **Konfirmasi Hapus**: Pop-up konfirmasi saat pengguna ingin menghapus data tamu.
 
 ---
 
